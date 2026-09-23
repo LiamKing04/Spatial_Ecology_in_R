@@ -15,4 +15,4 @@ samuele * gemma # instead of writing (2+3) * (4+6)
 samuele ^ gemma 
 tma <- 5 * 4
 
-tma + samuele + gemma #20 + 5 +10
+tma + samuele + gemma # 20 + 5 +10
