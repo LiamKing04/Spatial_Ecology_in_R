@@ -23,3 +23,10 @@ matteo <- c(5, 10, 20, 50, 80) # an array is a set of elements: this is the arra
 
 sum(5, 10)
 sum (5, 10) # HE HATES THIS!!
+
+elisa <-c(100, 80, 50, 20, 10) # an array of human deaths due to a disease
+
+plot(matteo, elisa)
+
+#changing the point character
+plot(matteo, elisa,pch=19)
