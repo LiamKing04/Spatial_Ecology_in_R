@@ -35,3 +35,9 @@ densityPlot(tiger$Timecirc)
 # Alternative method: create the time variable from the tiger dataset and useit in the
 tigertime <- tiger$Timecirc
 densityPlot(tigertime)
+
+# Selecting a column will not necessarily require the name 
+tigertime <- tiger[4]
+
+# Exercise: select all the rows of the kerinci dataset with the species macaque
+
